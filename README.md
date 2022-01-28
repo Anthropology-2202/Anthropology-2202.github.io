@@ -35,7 +35,7 @@ Visit the RIGIS website and access the “Hurricane Surge Inundation Areas (Wors
 
 Friday, January 28th, 5:30pm: Turn in a PDF version of your map on canvas before leaving class. 
 
-Friday, January 28th, 5:30pm: Fill out [this] [https://docs.google.com/forms/d/e/1FAIpQLScUiFIVfkLoEDsqNAvTOdHr_XHFV09IvS6U30zF3wp7P1t5PQ/viewform?usp=sf_link] form shortly thereafter
+Friday, January 28th, 5:30pm: Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLScUiFIVfkLoEDsqNAvTOdHr_XHFV09IvS6U30zF3wp7P1t5PQ/viewform?usp=sf_link) form shortly thereafter
 
 Wednesday, February 2nd, 11:59 pm: Turn in a NEW VERSION of the same map you produced in class, but render it one of the other two programs that you did NOT choose to use. 
 
