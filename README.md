@@ -15,8 +15,8 @@ This course assumes some previous experience in GIS. While we will review basic 
 
 In the team remaining in class, using your program of choice (ArcGIS Pro, QGIS or R), MAKE A MAP OF BROWN’S CAMPUS. Then, fill out the referenced google form. Your map should incorporate the following elements:
 
-1. A baseman of your choice
-2. A shape file containing the buildings on Brown’s campus, downloaded and unzipped from the class canvas website, in Files/Lab0
+1. A basemap of your choice
+2. A shapefile containing the buildings on Brown’s campus, downloaded and unzipped from the class canvas website, in Files/Lab0
 3. A scale bar
 4. A north arrow
 5. A legend
